@@ -17,7 +17,7 @@ High-level recommendations for how current market trends can be implied in Bella
 3. How could these trends help influence Bellabeat marketing strategy?
 
 # Key Products
-\* Bellabeat app: The Bellabeat app provides users with health data related to their activity, sleep, stress,
+* Bellabeat app: The Bellabeat app provides users with health data related to their activity, sleep, stress,
 menstrual cycle, and mindfulness habits. This data can help users better understand their current habits and
 make healthy decisions. The Bellabeat app connects to their line of smart wellness products.
 * Leaf: Bellabeat’s classic wellness tracker can be worn as a bracelet, necklace, or clip. The Leaf tracker connects
@@ -28,3 +28,6 @@ daily wellness.
 * Spring: This is a water bottle that tracks daily water intake using smart technology to ensure that you are
 appropriately hydrated throughout the day. The Spring bottle connects to the Bellabeat app to track your
 hydration levels.
+
+# Process
+1. Analyze the data using sql
