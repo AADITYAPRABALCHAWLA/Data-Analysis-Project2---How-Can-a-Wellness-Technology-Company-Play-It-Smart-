@@ -29,4 +29,10 @@
 <br/>
 
 **Step 6:Output**
+<br/>
 ![image](https://github.com/AADITYAPRABALCHAWLA/Data-Analysis-Project2---How-Can-a-Wellness-Technology-Company-Play-It-Smart-/assets/103323016/ce32c11e-82f1-415e-b2cc-cc3c69dba8ba)
+
+**Step 7:Output**
+[Click Here](https://docs.google.com/spreadsheets/d/1nAsF9FXpJe7zaHxa0F4BpfIWsiq8XQHFDA4Xqqemiok/edit#gid=494577538)
+**Step 8:Output**
+[Click Here](https://docs.google.com/spreadsheets/d/1VQdKwuyPY4b-E2lRuWkWdqeHYNyociJ83Gk-XEOxJ5U/edit#gid=1046858814)
