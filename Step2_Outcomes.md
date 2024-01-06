@@ -17,3 +17,6 @@
 
 # Outcome 5
 * Fairly Active users and Low Active users are equal in number while only 21% users are very active.
+
+# Total Time Taken
+1 hour
