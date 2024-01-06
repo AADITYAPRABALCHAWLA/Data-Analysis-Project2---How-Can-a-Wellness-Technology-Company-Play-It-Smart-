@@ -30,4 +30,4 @@ appropriately hydrated throughout the day. The Spring bottle connects to the Bel
 hydration levels.
 
 # Process
-1. Analyze the data using sql
+[Step 1.](https://github.com/AADITYAPRABALCHAWLA/Data-Analysis-Project2---How-Can-a-Wellness-Technology-Company-Play-It-Smart-/blob/main/Step1_SQL.md) Analyze the data using sql
