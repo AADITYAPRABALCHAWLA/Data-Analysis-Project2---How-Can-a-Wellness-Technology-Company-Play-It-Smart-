@@ -13,7 +13,9 @@
 
 **Step 3: Output**
 [Click Here for output data](https://docs.google.com/spreadsheets/d/1bZrA081TtnFQ0zZ81R1qmAClhVnE5WDjWb3MwSi83qs/edit#gid=796738657)
+<br/>
 **Tableau Output:**
+<br/>
 ![image](https://github.com/AADITYAPRABALCHAWLA/Data-Analysis-Project2---How-Can-a-Wellness-Technology-Company-Play-It-Smart-/assets/103323016/0d4d0781-6377-450a-bd22-59790d32e8fe)
 
 
