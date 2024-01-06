@@ -6,3 +6,7 @@
 5. Use the SQL codes that I have provided in this [link](https://github.com/AADITYAPRABALCHAWLA/Data-Analysis-Project2---How-Can-a-Wellness-Technology-Company-Play-It-Smart-/blob/main/SQL_code.sql)
 # Total Time Taken
 9 Hours
+# Output
+[Click here for SQL Output](https://github.com/AADITYAPRABALCHAWLA/Data-Analysis-Project2---How-Can-a-Wellness-Technology-Company-Play-It-Smart-/blob/main/SQL_output.md)
+<br/>
+[Click here for my tableau public story](https://public.tableau.com/app/profile/aaditya.prabal.chawla/viz/BellabeatCaseStudyusingSQLTableau/Story1)
