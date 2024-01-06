@@ -32,5 +32,3 @@ hydration levels.
 # Process
 [Step 1.](https://github.com/AADITYAPRABALCHAWLA/Data-Analysis-Project2---How-Can-a-Wellness-Technology-Company-Play-It-Smart-/blob/main/Step1_SQL.md) Analyze the data using SQL.<br/>
 [Step 2.](https://github.com/AADITYAPRABALCHAWLA/Data-Analysis-Project2---How-Can-a-Wellness-Technology-Company-Play-It-Smart-/tree/main) Analyze the Outcomes<br/>
-[Step 3.](https://github.com/AADITYAPRABALCHAWLA/Data-Analysis-Project2---How-Can-a-Wellness-Technology-Company-Play-It-Smart-/blob/main/Step3_BusinessQ%26A.md) Answer the Business Questions
-<br/>
